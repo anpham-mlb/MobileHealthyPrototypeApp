@@ -1,3 +1,6 @@
+## Link to see the prototype:
+https://www.figma.com/file/qVaecCBzIyk0EIovuW2ocl/MobileHealthyApp
+
 ## Descriptions
 The prototype of the mobile healthy eating app was designed by Figma whose target users are university-level students. This app will:
 - Allow users to subscribe by providing their personal data and eating habits preferences (such as whether the user is vegetarian or vegan, type of favorite foods, etc.).
