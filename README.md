@@ -1,5 +1,6 @@
 ## Link to see the prototype:
 https://www.figma.com/file/qVaecCBzIyk0EIovuW2ocl/MobileHealthyApp
+Hover the mouse and click to the Present button at the top right corner of the screen.
 
 ## Descriptions
 The prototype of the mobile healthy eating app was designed by Figma whose target users are university-level students. This app will:
