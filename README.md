@@ -1,5 +1,5 @@
 ## Link to see the prototype:
-https://www.figma.com/file/qVaecCBzIyk0EIovuW2ocl/MobileHealthyApp
+https://www.figma.com/file/qVaecCBzIyk0EIovuW2ocl/MobileHealthyApp.
 Hover the mouse and click to the Present button at the top right corner of the screen.
 
 ## Descriptions
